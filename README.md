@@ -31,7 +31,7 @@
 
 ### 部署到 CloudFlare Workers
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/your-username/subscription-manager)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/wangwangit001/notify)
 
 ### GitHub Actions 自动部署
 

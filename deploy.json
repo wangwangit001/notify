@@ -1,7 +1,7 @@
 {
   "name": "subscription-manager",
   "description": "智能订阅管理系统 - 支持农历显示、多渠道通知",
-  "repository": "https://github.com/your-username/subscription-manager",
+  "repository": "https://github.com/wangwangit001/notify",
   "main": "index.js",
   "compatibility_date": "2024-01-01",
   "compatibility_flags": ["nodejs_compat"],
