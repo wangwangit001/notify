@@ -51,6 +51,8 @@
 3. **添加订阅**，设置提醒
 4. **享受智能提醒**！
 
+> 💡 **小提示**: 部署时 CloudFlare 会自动创建数据存储空间，在 Dashboard 中可能显示为 "subscription-manager"，这是正常的！
+
 ## 🔧 通知渠道配置
 
 ### Telegram
